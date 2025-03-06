@@ -1,12 +1,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
-     ──「 sʏsᴛᴇᴍ ✘ ᴍᴜsɪᴄ 」──
+     ──「 AlonXbad 」──
 </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/moh_maya_official"><img src="https://envs.sh/spY.jpg"></a></p>
+<p align="center"><a href="https://t.me/badliar2001"><img src="https://envs.sh/spY.jpg"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
  <p align="center">
@@ -170,6 +170,6 @@ Bot also Supported with Channels. Just add bot and assistant to the Channel as A
 
 ### Credits : 
 
-- [Me](https://github.com/themohmaya)
-- [Telegram](https://t.me/moh_maya_official)
+- [Me](https://github.com/alonxbadmusic)
+- [Telegram](https://t.me/badliar2001)
 - Everyone In This Journey !
